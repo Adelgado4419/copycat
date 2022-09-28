@@ -1,0 +1,23 @@
+ul{
+    display: inline-block;
+}
+
+.rightnav {
+    float: right;
+    color: white;
+}
+
+body {
+    background-color: #121212;
+}
+
+* {
+    color: gray;
+}
+
+#mainimg {
+    width: 50%;
+    display: block;
+    position: absolute;
+    
+}
